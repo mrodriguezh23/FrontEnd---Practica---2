@@ -11,6 +11,6 @@
 ### Público objetivo
 [![publico objetivo](https://github.com/mrodriguezh23/FrontEnd---Practica---2/blob/main/P%C3%BAblico%20objetivo.jpg "publico objetivo")](https://github.com/mrodriguezh23/FrontEnd---Practica---2/blob/main/P%C3%BAblico%20objetivo.jpg "publico objetivo")
 
-## Maquetación páginas del cliente
+## [Maquetación Cliente](https://github.com/mrodriguezh23/FrontEnd---Practica---2/blob/main/cliente.html "Maquetación Cliente")
 
-## Maquetación páginas del pastelero
+##  [Maquetación Pastelero](https://github.com/mrodriguezh23/FrontEnd---Practica---2/blob/main/pastelero.html "Maquetación Pastelero")
